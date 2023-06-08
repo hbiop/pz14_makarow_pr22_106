@@ -15,6 +15,9 @@
             android:name=".video"
             android:exported="false" />
         <activity
+            android:name=".menuu"
+            android:exported="false" />
+        <activity
             android:name=".tip"
             android:exported="false" />
         <activity
